@@ -1,4 +1,4 @@
-import employeesList from './employeesJSON.js';
+import employeesList from 'employeesJSON.js';
 
 export function fetchEmployeesList(callbackThen, callbackCatch) {
 	setTimeout(() => {
